@@ -1,10 +1,9 @@
 {
-  "name": "HelloWorld",
-  "author": "Runnable",
-  "version": "0.0.1",
-  "description": "Runnable Sample Application",
+  "name": "angularjs-ex3",
+  "description": "Defining a method on AngularJS scope",
+  "version": "0.1.0",
   "dependencies": {
-    "express": "2.x"
-   },
-  "engine": "node 0.6.x"
+    "express": "~3.2.0"
+  },
+  "main": "./server.js"
 }
